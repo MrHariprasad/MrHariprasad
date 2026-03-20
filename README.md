@@ -58,9 +58,11 @@
 
 ## 🔭 Featured Projects :
 
-✨ **[Real-Time Ride Booking System](#)** – Scalable MERN stack app with real-time ride requests, driver matching, and live tracking.  
-🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
-🏠 **[Property Rental & Review System](#)** – Secure rental listings + verified reviews to build trust & transparency.  
+✨ **[Access Control By Signature Key](#)** – – Developed a security framework
+using Signature-Keys to provide enhanced data privacy for cloud computing and big data subjects. Implemented
+a Zero-Trust architecture across three models: Cloud Architecture, Transactions’ Manager, and Clients..  
+🔐 **[Youtube auto skipper](#)** – A powerful Chrome extension that saves you hours by intelligently detecting and handling sponsor segments in YouTube videos. Built with modern web technologies (TypeScript, Manifest V3) and a three-tiered detection system for maximum coverage and accuracy.  
+🏠 **[Netflix Clone](#)** – A Netflix-inspired landing page clone built using HTML, CSS, and JavaScript. This project recreates the Netflix homepage UI including the hero banner, trending movie slider, feature cards, FAQ section, and footer. It demonstrates responsive layout design, DOM manipulation, and smooth horizontal scrolling interactions in a frontend application.  
 🏫 **[College Property Damage Reporter](#)** – Reporting tool with admin dashboards, filtering, and image preview features.  
 
 ---
@@ -68,8 +70,8 @@
 ## 📈 GitHub Stats (Dark + Blue)  :
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrKalyanKing&show_icons=true&theme=tokyonight" height="160"/>
- <img src="https://streak-stats.vercel.app/?user=mrkalyanking&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrHariprasad&show_icons=true&theme=tokyonight" height="160"/>
+ <img src="https://streak-stats.vercel.app/?user=mrhariprasad&theme=tokyonight" height="160"/>
 
 </p>
 
@@ -78,13 +80,13 @@
 ## 🤝 Connect with Me  :
 
 <div align="center">
-  <a href="mailto:badhavath.kalyan.nayak@gmail.com">
+  <a href="mailto:hariprasad1806364@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kalyan-badhavath-7a4178281/">
+  <a href="https://www.linkedin.com/in/boddu-hari-prasad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/MrKalyanKing">
+  <a href="https://github.com/MrHariprasad">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
