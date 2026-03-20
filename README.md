@@ -23,7 +23,7 @@
 ## 🏆 LeetCode Progress :
 
 <p align="center">
-  <a href="https://leetcode.com/Kalyanithin/">
+  <a href="https://leetcode.com/Hari_Prasad_5364/">
     <img src="https://img.shields.io/badge/LeetCode-Visit_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
